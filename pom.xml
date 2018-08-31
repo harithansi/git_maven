@@ -7,7 +7,7 @@
   <groupId>maven</groupId>
   <artifactId>maven_Demo</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0</version>  
 
   <name>maven_Demo</name>
   <!-- FIXME change it to the project's website -->
