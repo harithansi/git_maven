@@ -5,10 +5,9 @@
 
  <groupId>maven</groupId>
   <artifactId>maven_Demo</artifactId>
-  <packaging>jar</packaging>
   <version>1.0</version>
-  <type>jar</type>
-
+ <packaging>jar</packaging>
+	
   <name>demo</name>
   <url>http://maven.apache.org</url>
 
