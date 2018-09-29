@@ -7,6 +7,7 @@
   <artifactId>maven_Demo</artifactId>
   <packaging>jar</packaging>
   <version>1.0</version>
+  <type>jar</type>
 
   <name>demo</name>
   <url>http://maven.apache.org</url>
