@@ -6,7 +6,7 @@
  <groupId>maven</groupId>
   <artifactId>maven_Demo</artifactId>
   <version>1.0</version>
- <packaging>jar</packaging>
+ <packaging>war</packaging>
 	
   <name>demo</name>
   <url>http://maven.apache.org</url>
